@@ -1,0 +1,21 @@
+.movielist-navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    tr {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 55vh;
+        border: 1px solid black;
+    }
+}
+.table-headers {
+}
